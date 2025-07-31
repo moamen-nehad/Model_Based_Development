@@ -1,0 +1,2 @@
+In this project, I modeled and simulated a simple RC circuit using MATLAB and Simulink. I implemented the first-order differential equation of the circuit in MATLAB to calculate the capacitor voltage for a sinusoidal input and plotted the results. I also built a Simulink model using standard blocks to represent the resistor, capacitor, and input voltage, then visualized the capacitor voltage using a scope. This project helped me understand RC circuit dynamics and practice both MATLAB programming and Simulink simulation.
+
