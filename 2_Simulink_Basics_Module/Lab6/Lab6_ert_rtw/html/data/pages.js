@@ -1,0 +1,1 @@
+var reportPages = [["Summary","Lab6_survey.html"],["Subsystem Report","Lab6_subsystems.html"],["Code Interface Report","Lab6_interface.html"],["Traceability Report","Lab6_trace.html"],["Static Code Metrics Report","Lab6_metrics.html"],["Code Replacements Report","Lab6_replacements.html"],["Coder Assumptions","Lab6_coderassumptions.html"]];

@@ -1,0 +1,1 @@
+var modelInfo = {model:"Lab6"};var modelHierarchy=[{model:"Lab6",relativePath:"_internal.html",parent:"null"},];
