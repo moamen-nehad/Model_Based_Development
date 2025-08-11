@@ -1,7 +1,3 @@
-\## 6. Discussion \& Observations
-
-
-
 This lab explored how a first-order system behaves with different inputs and parameter changes.
 
 
